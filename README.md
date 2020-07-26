@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: he / him
 - ⚡ Fun fact: Fun fat.
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=eallion&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=eallion&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Twitter Badge](https://img.shields.io/badge/@eallion-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/eallion)](https://twitter.com/eallion) 
 [![Blog Badge](https://img.shields.io/badge/eallion.com-FF4088?style=flat&labelColor=FF4088&logo=Hugo&logoColor=white&link=https://eallion.com/)](https://eallion.com/)
