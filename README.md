@@ -19,4 +19,4 @@ Here are some ideas to get you started:
 [![Twitter Badge](https://img.shields.io/badge/@eallion-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/eallion)](https://twitter.com/eallion) 
 [![Blog Badge](https://img.shields.io/badge/eallion.com-FF4088?style=flat&labelColor=FF4088&logo=Hugo&logoColor=white&link=https://eallion.com/)](https://eallion.com/)
 [![Gmail Badge](https://img.shields.io/badge/eallions@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:eallions@gmail.com)](mailto:eallions@gmail.com) 
-![Visitors](https://visitor-badge.laobi.icu/badge?page_id=eallion.eallion)
+![](https://komarev.com/ghpvc/?username=eallion&color=0366d6)
