@@ -9,7 +9,7 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning English.
 - 👯 I’m looking to collaborate on E-commerce.
 - 🤔 I’m looking for help with Immigration.
-- 💬 Ask me about you want.
+- 💬 AMA.
 - 📫 How to reach me: [Keybase](https://keybase.io/eallion)
 - 😄 Pronouns: he / him
 - ⚡ Fun fact: Fun fat.
