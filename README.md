@@ -20,4 +20,3 @@ Here are some ideas to get you started:
 [![Blog Badge](https://img.shields.io/badge/eallion.com-FF4088?style=flat&labelColor=FF4088&logo=Hugo&logoColor=white&link=https://eallion.com/)](https://eallion.com/)
 [![Gmail Badge](https://img.shields.io/badge/eallions@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:eallions@gmail.com)](mailto:eallions@gmail.com) 
 ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=eallion.eallion)
-![](https://komarev.com/ghpvc/?username=eallion&color=0366d6)
