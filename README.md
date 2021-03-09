@@ -6,8 +6,7 @@
 \____/|_| |_|\__,_|_|  |_|\___||___/ \____/|_| |_|_|_| |_|
 ```
 
-- Full Stack Operator
-- Working from home
+- E-Commerce
 
 [![Keybase Badge](https://img.shields.io/badge/@eallion-005eff?style=flat&labelColor=005eff&logo=Keybase&logoColor=white&link=https://keybase.io/eallion/)](https://keybase.io/eallion/)
 [![Twitter Badge](https://img.shields.io/badge/@eallion-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/eallion)](https://twitter.com/eallion) 
