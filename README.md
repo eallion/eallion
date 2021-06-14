@@ -6,9 +6,10 @@
 \____/|_| |_|\__,_|_|  |_|\___||___/ \____/|_| |_|_|_| |_|
 ```
 
-![Job](https://img.shields.io/badge/Job-E--Commerce-orange)
-[![Keybase Badge](https://img.shields.io/badge/@eallion-005eff?style=flat&labelColor=005eff&logo=Keybase&logoColor=white&link=https://keybase.io/eallion/)](https://keybase.io/eallion/)
-[![Twitter Badge](https://img.shields.io/badge/@eallion-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/eallion)](https://twitter.com/eallion) 
-[![Blog Badge](https://img.shields.io/badge/https://eallion.com-FF4088?style=flat&labelColor=FF4088&logo=Hugo&logoColor=white&link=https://eallion.com/)](https://eallion.com/)
-[![Gmail Badge](https://img.shields.io/badge/eallions@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:eallions@gmail.com)](mailto:eallions@gmail.com) 
+![Job](https://img.shields.io/badge/Job-E--Commerce-blue?logo=LinkedIn)
+[![Blog Badge](https://img.shields.io/badge/Blog-eallion.com-blue?style=flat&logo=hugo&labelColor=555&logoColor=white)](https://eallion.com/)
+[![Gmail Badge](https://img.shields.io/badge/Gmail-eallions@gmail.com-blue?style=flat&labelColor=555&logo=gmail&link=mailto:eallions@gmail.com&logoColor=fff)](mailto:eallions@gmail.com)
+[![Twitter Badge](https://img.shields.io/badge/Twitter-@eallion-blue?style=flat&labelColor=555&logo=twitter&logoColor=fff)](https://twitter.com/eallion)
+[![Telegram Badge](https://img.shields.io/badge/t.me-@eallion-blue?style=flat&labelColor=555&logo=telegram&logoColor=fff)](https://t.me/eallion)
+[![Keybase Badge](https://img.shields.io/badge/Keybase-@eallion-blue?style=flat&labelColor=555&logo=Keybase&logoColor=fff)](https://keybase.io/eallion)
 ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=eallion.eallion)
